@@ -1,2 +1,2 @@
 # Starting-Line
-Business Website
+Business Website Template for a Remodeling business.
