@@ -10,8 +10,8 @@
 </title>
 
 <head>
-    <script>
-       fetch{'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'}
+    <!-- <script>
+       //fetch{'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'}
 .then(response => {
 if (response.ok) {
 return response.json(); // Parse the response data as JSON
@@ -22,10 +22,10 @@ throw new Error('API request failed');
 .then(data => {
 // Process the response data here
 console.log(data); // Example: Logging the data to the console})
-.catch.error(error); // Example: Logging the error to the console});
+.catch.error(error); // Example: Logging the error to the console});//
       
           
-   </script>
+   </script> -->
    
    <style> 
         nav{
